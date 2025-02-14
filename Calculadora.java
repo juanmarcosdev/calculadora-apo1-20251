@@ -19,7 +19,7 @@ public class Calculadora {
         num2 = escaner.nextInt();
         // System.out.println("Numero 1 me dijiste: " + num1);
         // System.out.println("Numero 2 me dijiste: " + num2);
-        int suma, resta, producto;
+        int suma, resta, producto, division;
         suma = num1 + num2;
         resta = num1 - num2;
         producto = num1 * num2;
